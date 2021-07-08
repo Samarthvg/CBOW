@@ -10,3 +10,9 @@ All the word embeddings are trained using below parameters.
 | Embedding dimension      |  300  |
 | Learning rate            |  0.5  |
 | Window size              |  10   |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
