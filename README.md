@@ -5,14 +5,10 @@ The Continuous Bag Of Words architecture takes the context of each word as input
 
 ##  Model Training
 All the word embeddings are trained using below parameters.
-|:------------------------:| :----:|
-| Epochs                   |  30   |
-| Embedding dimension      |  300  |
-| Learning rate            |  0.5  |
-| Window size              |  10   |
 
+------------------------ | ---- |
+Epochs                   |  30  |
+Embedding dimension      |  300 |
+Learning rate            |  0.5 |
+Window size              |  10  |
 
-|:-------------:| -----:|
-| right-aligned | $1600 |
-| centered      |   $12 |
-| are neat      |    $1 |
